@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/bin/Debug/netcoreapp2.0/MovieAPI.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/bin/Debug/netcoreapp2.0/MovieAPI.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/bin/Debug/netcoreapp2.0/MovieAPI.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/bin/Debug/netcoreapp2.0/MovieAPI.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/bin/Debug/netcoreapp2.0/MovieAPI.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/obj/Debug/netcoreapp2.0/MovieAPI.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/obj/Debug/netcoreapp2.0/MovieAPI.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/obj/Debug/netcoreapp2.0/MovieAPI.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/obj/Debug/netcoreapp2.0/MovieAPI.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/MovieAPI/obj/Debug/netcoreapp2.0/MovieAPI.pdb
